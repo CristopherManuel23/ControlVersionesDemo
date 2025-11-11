@@ -1,0 +1,12 @@
+------------------------------------------------------------
+PLANILLA DE CONTROL DE CAMBIOS
+Proyecto: ControlVersionesDemo
+Autor: Cristopher Manuel
+Fecha de inicio: 10/11/2025
+------------------------------------------------------------
+
+| FECHA        | AUTOR              | RAMA            | DESCRIPCIÓN DEL CAMBIO                    | TIPO DE CAMBIO |
+|--------------|--------------------|-----------------|-------------------------------------------|----------------|
+| 10/11/2025   | Cristopher Manuel  | main            | Creación del repositorio y README         | Creación       |
+| 10/11/2025   | Cristopher Manuel  | feature-login   | Agregada función de login                 | Mejora         |
+------------------------------------------------------------
