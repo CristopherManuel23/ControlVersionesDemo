@@ -10,3 +10,7 @@ Fecha de inicio: 10/11/2025
 | 10/11/2025   | Cristopher Manuel  | main            | Creación del repositorio y README         | Creación       |
 | 10/11/2025   | Cristopher Manuel  | feature-login   | Agregada función de login                 | Mejora         |
 ------------------------------------------------------------
+| 10/11/2025   | Cristopher Manuel  | develop         | Merge de feature-login a develop          | Integración    |
+| 10/11/2025   | Cristopher Manuel  | main            | Merge de develop a main (versión 1.0)     | Liberación     |
+------------------------------------------------------------
+
